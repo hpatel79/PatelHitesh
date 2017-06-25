@@ -19,7 +19,7 @@ The CLI can be started by using the executing the run gradle task:
 mvn spring-boot:run
 
 # Console Screen
-
+```
 ############################################
 Available movie ids: 1, 2, 3
 Valid Parental control levels: U PG 12 15 18
@@ -36,5 +36,7 @@ Do you want to watch any more movie? Y / N
 N
 
 Thanks for using SKY Parental Control Service. Bye
+
+```
 
 
